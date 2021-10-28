@@ -1,0 +1,20 @@
+{
+  "name": "ts-typelevel-di",
+  "version": "0.1.0",
+  "description": "Typesafe way to implement DI in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript",
+    "dependency",
+    "injection",
+    "di"
+  ],
+  "author": "Adam Starlight",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
